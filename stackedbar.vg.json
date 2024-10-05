@@ -76,7 +76,10 @@
           "aggregate": "sum",
           "field": "Actual_Value",
           "type": "quantitative",
-          "title": "Total Value"
+          "title": "Total Value",
+          "axis": {
+            "format": ",.0f"
+          }
         },
         "color": {
           "field": "Category",
