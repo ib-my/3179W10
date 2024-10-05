@@ -1,0 +1,401 @@
+State,Year,Category,Value
+Johor,2017,Pollution management,274164
+Johor,2018,Pollution management,228340
+Johor,2019,Pollution management,493438
+Johor,2020,Pollution management,636030
+Johor,2021,Pollution management,660433
+Kedah,2017,Pollution management,77200
+Kedah,2018,Pollution management,72394
+Kedah,2019,Pollution management,84293
+Kedah,2020,Pollution management,61017
+Kedah,2021,Pollution management,90088
+Kelantan,2017,Pollution management,19492
+Kelantan,2018,Pollution management,10088
+Kelantan,2019,Pollution management,7518
+Kelantan,2020,Pollution management,12400
+Kelantan,2021,Pollution management,17233
+Melaka,2017,Pollution management,72835
+Melaka,2018,Pollution management,49125
+Melaka,2019,Pollution management,51878
+Melaka,2020,Pollution management,85347
+Melaka,2021,Pollution management,78090
+Negeri Sembilan,2017,Pollution management,41131
+Negeri Sembilan,2018,Pollution management,257383
+Negeri Sembilan,2019,Pollution management,59889
+Negeri Sembilan,2020,Pollution management,57933
+Negeri Sembilan,2021,Pollution management,67819
+Pahang,2017,Pollution management,43261
+Pahang,2018,Pollution management,117970
+Pahang,2019,Pollution management,138099
+Pahang,2020,Pollution management,155927
+Pahang,2021,Pollution management,182567
+Perak,2017,Pollution management,45697
+Perak,2018,Pollution management,52035
+Perak,2019,Pollution management,69561
+Perak,2020,Pollution management,88600
+Perak,2021,Pollution management,85945
+Perlis,2017,Pollution management,7406
+Perlis,2018,Pollution management,2637
+Perlis,2019,Pollution management,14340
+Perlis,2020,Pollution management,4916
+Perlis,2021,Pollution management,5894
+Penang,2017,Pollution management,107250
+Penang,2018,Pollution management,99280
+Penang,2019,Pollution management,115353
+Penang,2020,Pollution management,113914
+Penang,2021,Pollution management,114391
+Sabah,2017,Pollution management,54852
+Sabah,2018,Pollution management,67330
+Sabah,2019,Pollution management,215962
+Sabah,2020,Pollution management,74430
+Sabah,2021,Pollution management,95273
+Sarawak,2017,Pollution management,165970
+Sarawak,2018,Pollution management,67330
+Sarawak,2019,Pollution management,150348
+Sarawak,2020,Pollution management,138970
+Sarawak,2021,Pollution management,137636
+Selangor,2017,Pollution management,285558
+Selangor,2018,Pollution management,328075
+Selangor,2019,Pollution management,345275
+Selangor,2020,Pollution management,322866
+Selangor,2021,Pollution management,363703
+Terengganu,2017,Pollution management,268851
+Terengganu,2018,Pollution management,226276
+Terengganu,2019,Pollution management,101876
+Terengganu,2020,Pollution management,211445
+Terengganu,2021,Pollution management,184519
+W.P. Kuala Lumpur,2017,Pollution management,195299
+W.P. Kuala Lumpur,2018,Pollution management,191305
+W.P. Kuala Lumpur,2019,Pollution management,173051
+W.P. Kuala Lumpur,2020,Pollution management,139231
+W.P. Kuala Lumpur,2021,Pollution management,125313
+W.P. Labuan,2017,Pollution management,561
+W.P. Labuan,2018,Pollution management,768
+W.P. Labuan,2019,Pollution management,278
+W.P. Labuan,2020,Pollution management,423
+W.P. Labuan,2021,Pollution management,945
+W.P. Putrajaya,2017,Pollution management,150
+W.P. Putrajaya,2018,Pollution management,303
+W.P. Putrajaya,2019,Pollution management,50
+W.P. Putrajaya,2020,Pollution management,220
+W.P. Putrajaya,2021,Pollution management,318
+Johor,2017,Protection of wildlife & habitats,475
+Johor,2018,Protection of wildlife & habitats,448
+Johor,2019,Protection of wildlife & habitats,258
+Johor,2020,Protection of wildlife & habitats,3011
+Johor,2021,Protection of wildlife & habitats,4289
+Kedah,2017,Protection of wildlife & habitats,249
+Kedah,2018,Protection of wildlife & habitats,10
+Kedah,2019,Protection of wildlife & habitats,null
+Kedah,2020,Protection of wildlife & habitats,164
+Kedah,2021,Protection of wildlife & habitats,171
+Kelantan,2017,Protection of wildlife & habitats,361
+Kelantan,2018,Protection of wildlife & habitats,104
+Kelantan,2019,Protection of wildlife & habitats,15
+Kelantan,2020,Protection of wildlife & habitats,6310
+Kelantan,2021,Protection of wildlife & habitats,806
+Melaka,2017,Protection of wildlife & habitats,23
+Melaka,2018,Protection of wildlife & habitats,20
+Melaka,2019,Protection of wildlife & habitats,3
+Melaka,2020,Protection of wildlife & habitats,3
+Melaka,2021,Protection of wildlife & habitats,null
+Negeri Sembilan,2017,Protection of wildlife & habitats,11
+Negeri Sembilan,2018,Protection of wildlife & habitats,91
+Negeri Sembilan,2019,Protection of wildlife & habitats,45
+Negeri Sembilan,2020,Protection of wildlife & habitats,551
+Negeri Sembilan,2021,Protection of wildlife & habitats,569
+Pahang,2017,Protection of wildlife & habitats,1023
+Pahang,2018,Protection of wildlife & habitats,252
+Pahang,2019,Protection of wildlife & habitats,136
+Pahang,2020,Protection of wildlife & habitats,77
+Pahang,2021,Protection of wildlife & habitats,22
+Perak,2017,Protection of wildlife & habitats,0
+Perak,2018,Protection of wildlife & habitats,14
+Perak,2019,Protection of wildlife & habitats,null
+Perak,2020,Protection of wildlife & habitats,877
+Perak,2021,Protection of wildlife & habitats,455
+Perlis,2017,Protection of wildlife & habitats,null
+Perlis,2018,Protection of wildlife & habitats,null
+Perlis,2019,Protection of wildlife & habitats,null
+Perlis,2020,Protection of wildlife & habitats,null
+Perlis,2021,Protection of wildlife & habitats,null
+Penang,2017,Protection of wildlife & habitats,1141
+Penang,2018,Protection of wildlife & habitats,0
+Penang,2019,Protection of wildlife & habitats,null
+Penang,2020,Protection of wildlife & habitats,10
+Penang,2021,Protection of wildlife & habitats,12
+Sabah,2017,Protection of wildlife & habitats,1186
+Sabah,2018,Protection of wildlife & habitats,2709
+Sabah,2019,Protection of wildlife & habitats,2228
+Sabah,2020,Protection of wildlife & habitats,4173
+Sabah,2021,Protection of wildlife & habitats,3244
+Sarawak,2017,Protection of wildlife & habitats,2678
+Sarawak,2018,Protection of wildlife & habitats,2709
+Sarawak,2019,Protection of wildlife & habitats,1471
+Sarawak,2020,Protection of wildlife & habitats,815
+Sarawak,2021,Protection of wildlife & habitats,543
+Selangor,2017,Protection of wildlife & habitats,343
+Selangor,2018,Protection of wildlife & habitats,null
+Selangor,2019,Protection of wildlife & habitats,null
+Selangor,2020,Protection of wildlife & habitats,18
+Selangor,2021,Protection of wildlife & habitats,23
+Terengganu,2017,Protection of wildlife & habitats,1823
+Terengganu,2018,Protection of wildlife & habitats,562
+Terengganu,2019,Protection of wildlife & habitats,30
+Terengganu,2020,Protection of wildlife & habitats,52
+Terengganu,2021,Protection of wildlife & habitats,55
+W.P. Kuala Lumpur,2017,Protection of wildlife & habitats,366
+W.P. Kuala Lumpur,2018,Protection of wildlife & habitats,676
+W.P. Kuala Lumpur,2019,Protection of wildlife & habitats,2206
+W.P. Kuala Lumpur,2020,Protection of wildlife & habitats,1945
+W.P. Kuala Lumpur,2021,Protection of wildlife & habitats,1999
+W.P. Labuan,2017,Protection of wildlife & habitats,null
+W.P. Labuan,2018,Protection of wildlife & habitats,null
+W.P. Labuan,2019,Protection of wildlife & habitats,null
+W.P. Labuan,2020,Protection of wildlife & habitats,null
+W.P. Labuan,2021,Protection of wildlife & habitats,null
+W.P. Putrajaya,2017,Protection of wildlife & habitats,71
+W.P. Putrajaya,2018,Protection of wildlife & habitats,null
+W.P. Putrajaya,2019,Protection of wildlife & habitats,null
+W.P. Putrajaya,2020,Protection of wildlife & habitats,null
+W.P. Putrajaya,2021,Protection of wildlife & habitats,null
+Johor,2017,Environmental assessment and charges,13051
+Johor,2018,Environmental assessment and charges,7720
+Johor,2019,Environmental assessment and charges,6979
+Johor,2020,Environmental assessment and charges,7862
+Johor,2021,Environmental assessment and charges,9754
+Kedah,2017,Environmental assessment and charges,1343
+Kedah,2018,Environmental assessment and charges,1174
+Kedah,2019,Environmental assessment and charges,1402
+Kedah,2020,Environmental assessment and charges,857
+Kedah,2021,Environmental assessment and charges,1567
+Kelantan,2017,Environmental assessment and charges,1620
+Kelantan,2018,Environmental assessment and charges,489
+Kelantan,2019,Environmental assessment and charges,505
+Kelantan,2020,Environmental assessment and charges,1711
+Kelantan,2021,Environmental assessment and charges,1234
+Melaka,2017,Environmental assessment and charges,1281
+Melaka,2018,Environmental assessment and charges,613
+Melaka,2019,Environmental assessment and charges,1016
+Melaka,2020,Environmental assessment and charges,887
+Melaka,2021,Environmental assessment and charges,922
+Negeri Sembilan,2017,Environmental assessment and charges,2062
+Negeri Sembilan,2018,Environmental assessment and charges,1577
+Negeri Sembilan,2019,Environmental assessment and charges,1595
+Negeri Sembilan,2020,Environmental assessment and charges,3290
+Negeri Sembilan,2021,Environmental assessment and charges,4536
+Pahang,2017,Environmental assessment and charges,1778
+Pahang,2018,Environmental assessment and charges,2601
+Pahang,2019,Environmental assessment and charges,2608
+Pahang,2020,Environmental assessment and charges,1463
+Pahang,2021,Environmental assessment and charges,1603
+Perak,2017,Environmental assessment and charges,1962
+Perak,2018,Environmental assessment and charges,1511
+Perak,2019,Environmental assessment and charges,2127
+Perak,2020,Environmental assessment and charges,3451
+Perak,2021,Environmental assessment and charges,2428
+Perlis,2017,Environmental assessment and charges,44
+Perlis,2018,Environmental assessment and charges,92
+Perlis,2019,Environmental assessment and charges,24
+Perlis,2020,Environmental assessment and charges,34
+Perlis,2021,Environmental assessment and charges,20
+Penang,2017,Environmental assessment and charges,3898
+Penang,2018,Environmental assessment and charges,3109
+Penang,2019,Environmental assessment and charges,3781
+Penang,2020,Environmental assessment and charges,3850
+Penang,2021,Environmental assessment and charges,4221
+Sabah,2017,Environmental assessment and charges,4696
+Sabah,2018,Environmental assessment and charges,6824
+Sabah,2019,Environmental assessment and charges,10207
+Sabah,2020,Environmental assessment and charges,7969
+Sabah,2021,Environmental assessment and charges,7781
+Sarawak,2017,Environmental assessment and charges,13613
+Sarawak,2018,Environmental assessment and charges,6824
+Sarawak,2019,Environmental assessment and charges,5551
+Sarawak,2020,Environmental assessment and charges,9068
+Sarawak,2021,Environmental assessment and charges,14045
+Selangor,2017,Environmental assessment and charges,7975
+Selangor,2018,Environmental assessment and charges,22477
+Selangor,2019,Environmental assessment and charges,18968
+Selangor,2020,Environmental assessment and charges,12244
+Selangor,2021,Environmental assessment and charges,7196
+Terengganu,2017,Environmental assessment and charges,3098
+Terengganu,2018,Environmental assessment and charges,790
+Terengganu,2019,Environmental assessment and charges,1926
+Terengganu,2020,Environmental assessment and charges,2519
+Terengganu,2021,Environmental assessment and charges,2129
+W.P. Kuala Lumpur,2017,Environmental assessment and charges,5476
+W.P. Kuala Lumpur,2018,Environmental assessment and charges,38749
+W.P. Kuala Lumpur,2019,Environmental assessment and charges,8193
+W.P. Kuala Lumpur,2020,Environmental assessment and charges,11914
+W.P. Kuala Lumpur,2021,Environmental assessment and charges,13112
+W.P. Labuan,2017,Environmental assessment and charges,141
+W.P. Labuan,2018,Environmental assessment and charges,54
+W.P. Labuan,2019,Environmental assessment and charges,39
+W.P. Labuan,2020,Environmental assessment and charges,30
+W.P. Labuan,2021,Environmental assessment and charges,null
+W.P. Putrajaya,2017,Environmental assessment and charges,425
+W.P. Putrajaya,2018,Environmental assessment and charges,48
+W.P. Putrajaya,2019,Environmental assessment and charges,13
+W.P. Putrajaya,2020,Environmental assessment and charges,38
+W.P. Putrajaya,2021,Environmental assessment and charges,50
+Johor,2017,Waste management,125122
+Johor,2018,Waste management,83744
+Johor,2019,Waste management,160943
+Johor,2020,Waste management,159478
+Johor,2021,Waste management,184388
+Kedah,2017,Waste management,25681
+Kedah,2018,Waste management,20276
+Kedah,2019,Waste management,27003
+Kedah,2020,Waste management,33558
+Kedah,2021,Waste management,36049
+Kelantan,2017,Waste management,9057
+Kelantan,2018,Waste management,3867
+Kelantan,2019,Waste management,2568
+Kelantan,2020,Waste management,8400
+Kelantan,2021,Waste management,5800
+Melaka,2017,Waste management,24219
+Melaka,2018,Waste management,27781
+Melaka,2019,Waste management,28575
+Melaka,2020,Waste management,19661
+Melaka,2021,Waste management,16335
+Negeri Sembilan,2017,Waste management,34578
+Negeri Sembilan,2018,Waste management,32641
+Negeri Sembilan,2019,Waste management,28806
+Negeri Sembilan,2020,Waste management,22066
+Negeri Sembilan,2021,Waste management,24222
+Pahang,2017,Waste management,30809
+Pahang,2018,Waste management,79293
+Pahang,2019,Waste management,14296
+Pahang,2020,Waste management,12148
+Pahang,2021,Waste management,20844
+Perak,2017,Waste management,25181
+Perak,2018,Waste management,17406
+Perak,2019,Waste management,20529
+Perak,2020,Waste management,28551
+Perak,2021,Waste management,31288
+Perlis,2017,Waste management,1499
+Perlis,2018,Waste management,1457
+Perlis,2019,Waste management,997
+Perlis,2020,Waste management,1304
+Perlis,2021,Waste management,2025
+Penang,2017,Waste management,165876
+Penang,2018,Waste management,115968
+Penang,2019,Waste management,57054
+Penang,2020,Waste management,91971
+Penang,2021,Waste management,78889
+Sabah,2017,Waste management,29569
+Sabah,2018,Waste management,22013
+Sabah,2019,Waste management,19689
+Sabah,2020,Waste management,19961
+Sabah,2021,Waste management,21818
+Sarawak,2017,Waste management,60945
+Sarawak,2018,Waste management,22013
+Sarawak,2019,Waste management,90865
+Sarawak,2020,Waste management,85902
+Sarawak,2021,Waste management,84967
+Selangor,2017,Waste management,184715
+Selangor,2018,Waste management,136923
+Selangor,2019,Waste management,174370
+Selangor,2020,Waste management,192452
+Selangor,2021,Waste management,184977
+Terengganu,2017,Waste management,26977
+Terengganu,2018,Waste management,19475
+Terengganu,2019,Waste management,21331
+Terengganu,2020,Waste management,22070
+Terengganu,2021,Waste management,32338
+W.P. Kuala Lumpur,2017,Waste management,43155
+W.P. Kuala Lumpur,2018,Waste management,85935
+W.P. Kuala Lumpur,2019,Waste management,103730
+W.P. Kuala Lumpur,2020,Waste management,68125
+W.P. Kuala Lumpur,2021,Waste management,77863
+W.P. Labuan,2017,Waste management,1439
+W.P. Labuan,2018,Waste management,5681
+W.P. Labuan,2019,Waste management,822
+W.P. Labuan,2020,Waste management,912
+W.P. Labuan,2021,Waste management,1641
+W.P. Putrajaya,2017,Waste management,3189
+W.P. Putrajaya,2018,Waste management,1755
+W.P. Putrajaya,2019,Waste management,169
+W.P. Putrajaya,2020,Waste management,205
+W.P. Putrajaya,2021,Waste management,262
+Johor,2017,Other,15878
+Johor,2018,Other,6252
+Johor,2019,Other,16856
+Johor,2020,Other,2402
+Johor,2021,Other,3535
+Kedah,2017,Other,774
+Kedah,2018,Other,346
+Kedah,2019,Other,567
+Kedah,2020,Other,194
+Kedah,2021,Other,606
+Kelantan,2017,Other,903
+Kelantan,2018,Other,78
+Kelantan,2019,Other,43
+Kelantan,2020,Other,91
+Kelantan,2021,Other,112
+Melaka,2017,Other,2250
+Melaka,2018,Other,691
+Melaka,2019,Other,1975
+Melaka,2020,Other,264
+Melaka,2021,Other,328
+Negeri Sembilan,2017,Other,943
+Negeri Sembilan,2018,Other,574
+Negeri Sembilan,2019,Other,1470
+Negeri Sembilan,2020,Other,794
+Negeri Sembilan,2021,Other,815
+Pahang,2017,Other,1325
+Pahang,2018,Other,524
+Pahang,2019,Other,560
+Pahang,2020,Other,700
+Pahang,2021,Other,711
+Perak,2017,Other,1842
+Perak,2018,Other,659
+Perak,2019,Other,1086
+Perak,2020,Other,1150
+Perak,2021,Other,1251
+Perlis,2017,Other,60
+Perlis,2018,Other,835
+Perlis,2019,Other,30
+Perlis,2020,Other,4
+Perlis,2021,Other,4
+Penang,2017,Other,4296
+Penang,2018,Other,1343
+Penang,2019,Other,1443
+Penang,2020,Other,1740
+Penang,2021,Other,1465
+Sabah,2017,Other,2980
+Sabah,2018,Other,1150
+Sabah,2019,Other,1777
+Sabah,2020,Other,2987
+Sabah,2021,Other,2748
+Sarawak,2017,Other,5415
+Sarawak,2018,Other,1150
+Sarawak,2019,Other,3497
+Sarawak,2020,Other,858
+Sarawak,2021,Other,2222
+Selangor,2017,Other,10692
+Selangor,2018,Other,13118
+Selangor,2019,Other,4843
+Selangor,2020,Other,2858
+Selangor,2021,Other,1626
+Terengganu,2017,Other,7303
+Terengganu,2018,Other,726
+Terengganu,2019,Other,1435
+Terengganu,2020,Other,363
+Terengganu,2021,Other,1111
+W.P. Kuala Lumpur,2017,Other,16586
+W.P. Kuala Lumpur,2018,Other,8485
+W.P. Kuala Lumpur,2019,Other,5389
+W.P. Kuala Lumpur,2020,Other,2772
+W.P. Kuala Lumpur,2021,Other,2742
+W.P. Labuan,2017,Other,11
+W.P. Labuan,2018,Other,15
+W.P. Labuan,2019,Other,6
+W.P. Labuan,2020,Other,null
+W.P. Labuan,2021,Other,null
+W.P. Putrajaya,2017,Other,487
+W.P. Putrajaya,2018,Other,14
+W.P. Putrajaya,2019,Other,null
+W.P. Putrajaya,2020,Other,null
+W.P. Putrajaya,2021,Other,5

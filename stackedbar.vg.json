@@ -1,0 +1,162 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Breakdown of Expenditure on Environmental Protection by State",
+  "data": {"url": "clean_expenditure.csv"},
+  "params": [
+    {
+      "name": "State_selection",
+      "value": "Johor",
+      "bind": {
+        "input": "select",
+        "options": [
+          "Johor",
+          "Kedah",
+          "Kelantan",
+          "Melaka",
+          "Negeri Sembilan",
+          "Pahang",
+          "Perak",
+          "Perlis",
+          "Penang",
+          "Sabah",
+          "Sarawak",
+          "Selangor",
+          "Terengganu",
+          "W.P. Kuala Lumpur",
+          "W.P. Labuan",
+          "W.P. Putrajaya"
+        ],
+        "labels": [
+          "Johor",
+          "Kedah",
+          "Kelantan",
+          "Melaka",
+          "Negeri Sembilan",
+          "Pahang",
+          "Perak",
+          "Perlis",
+          "Penang",
+          "Sabah",
+          "Sarawak",
+          "Selangor",
+          "Terengganu",
+          "W.P. Kuala Lumpur",
+          "W.P. Labuan",
+          "W.P. Putrajaya"
+        ],
+        "name": "State Selection: "
+      }
+    }
+  ],
+  "transform": [
+    {
+      "filter": "datum.State == State_selection"
+    },
+    {
+      "calculate": "datum.Value * 1000",
+      "as": "Actual_Value"
+    }
+  ],
+  "layer": [
+    {
+      "mark": {
+        "type": "bar",
+        "size": 70
+      },
+      "encoding": {
+        "x": {
+          "field": "Year",
+          "type": "ordinal",
+          "title": "Year",
+          "axis": {
+            "labelAngle": 0
+          }
+        },
+        "y": {
+          "aggregate": "sum",
+          "field": "Actual_Value",
+          "type": "quantitative",
+          "title": "Total Value"
+        },
+        "color": {
+          "field": "Category",
+          "type": "nominal",
+          "title": "Category",
+          "scale": {
+            "domain": [
+              "Pollution management",
+              "Protection of wildlife & habitats",
+              "Environmental assessment and charges",
+              "Waste management",
+              "Other"
+            ],
+            "range": ["#e7ba52", "#c7c7c7", "#aec7e8", "#1f77b4", "#9467bd"]
+          },
+          "legend": {
+            "labelLimit": 200
+          }
+        },
+        "tooltip": [
+          {"field": "State", "type": "nominal", "title": "State"},
+          {"field": "Year", "type": "ordinal", "title": "Year"},
+          {"field": "Category", "type": "nominal", "title": "Category"},
+          {
+            "field": "Actual_Value",
+            "type": "quantitative",
+            "title": "Value",
+            "format": ","
+          }
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "center",
+        "baseline": "top",
+        "dy": -13
+      },
+      "transform": [
+        {
+          "filter": "datum.Year == 2021"
+        },
+        {
+          "aggregate": [
+            {
+              "op": "sum",
+              "field": "Actual_Value",
+              "as": "Total_2021"
+            }
+          ],
+          "groupby": ["Year"]
+        }
+      ],
+      "encoding": {
+        "x": {
+          "field": "Year",
+          "type": "ordinal"
+        },
+        "y": {
+          "aggregate": "sum",
+          "field": "Total_2021",
+          "type": "quantitative",
+          "stack": "zero"
+        },
+        "text": {
+          "field": "Total_2021",
+          "type": "quantitative",
+          "format": ","
+        }
+      }
+    }
+  ],
+  "height": 400,
+  "width": 700,
+  "config": {
+    "tooltipFormat": {
+      "numberFormat": ".8f"
+    },
+    "numberFormat": "d",
+    "customFormatTypes": true
+  }
+}
